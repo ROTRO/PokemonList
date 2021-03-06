@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <color name="name">#515053</color>
+    <color name="attack">#1E1A27</color>
+
+</resources>
